@@ -1,0 +1,9 @@
+ Pratishtha Singh is a student at Jaypee University of Engineering and Technology, studying Computer Science. She has experience with various languages and platforms, and has worked on various projects. Additionally, she has volunteered for Shiksha-Setu, provided support and resources to students in need, advocated for equal access to education and resources, and led initiatives successfully. She also conducted a donations drive and achieved a 13th rank in an online round and 4th rank among the top participants in a final round of a Hackathon (Codespire) in March 2023.
+
+
+ Sandali Gupta is a final year B.Tech Computer Science student at Jaypee University of Engineering and Technology. He has strong problem-solving and analytical skills, and is experienced in project development. He has technical skills in Python, Java, CPP, HTML, CSS, Javascript, and frameworks such as Streamlit, Pandas, Numpy, Keras, Scikit-Learn, Matplotlib, and Flask. He also has soft skills such as problem solving, time management, creative thinking, and communication. He has participated in hackathons and created personal projects such as a property price prediction model and a Covid-19 detection model, and has held positions of responsibility and volunteered for various causes.
+
+
+ Vani Seth is a 3rd-year student in B.Tech, Computer Science and Engineering Program at Jaypee University of Engineering and Technology, Guna. She has experience in Machine Learning, Artificial Intelligence, and Data Science and has participated in various coding programs. She is proficient in many programming languages and has achieved various awards and recognitions. Her projects include Class Scheduler using AI, StegMed, and Email Spoofing Detection at the server.
+
+
